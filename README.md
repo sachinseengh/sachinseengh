@@ -51,6 +51,11 @@
   
   <br/><br/><br/>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinseengh/sachinseengh/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachinseengh/sachinseengh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sachinseengh/sachinseengh/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <hr/>
 
