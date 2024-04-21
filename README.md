@@ -12,13 +12,26 @@
  
  🔭 I’m currently a student of **BCA TU**
  
- 🌱 I’m currently learning **Spring boot**
+ 🌱 I’m currently learning **Spring and Spring boot**
+ <br>
+
+ <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=Spring Boot" />
+ 
+  <hr>
 
 <!-- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
  </div>
+
+ <div align="center">
+ 
+ 
+ 📞 **Contact me**
+ <br>
+
  
 <div align="center"> 
   <a href="mailto:sachinseengh@gmail.com" target="_blank">
