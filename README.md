@@ -12,10 +12,11 @@
  
  🔭 I’m currently a student of **BCA TU**
  
- 🌱 I’m currently learning **Spring and Spring boot**
+ 🌱 I’m currently learning **Spring and React Js**
  <br>
 
  <img src="https://skillicons.dev/icons?i=spring" />
+ <img src="https://skillicons.dev/icons?i=react" />
   
  
   <hr>
