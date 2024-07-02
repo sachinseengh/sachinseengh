@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sachinseengh.sachinseengh" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sachinseengh.sachinseengh" /> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sachin+Kumar+Singh;" />
@@ -8,52 +8,53 @@
 
 <br/>
 
-<div align="center">
+<!--<div align="center">-->
  
- 🔭 I’m currently a student of **BCA TU**
+<!-- 🔭 I’m currently a student of **BCA TU**
  
  🌱 I’m currently learning **Spring and React Js**
  <br>
 
  <img src="https://skillicons.dev/icons?i=spring" />
- <img src="https://skillicons.dev/icons?i=react" />
+ <img src="https://skillicons.dev/icons?i=react" /> -->
   
  
-  <hr>
+  
 
 <!-- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
- </div>
+ <!-- </div> -->
 
  <div align="center">
  
  
- 📞 **Contact me**
- <br>
-
+<!-- 📞 **Contact me** -->
  
+
+<!-- 
 <div align="center"> 
   <a href="mailto:sachinseengh@gmail.com" target="_blank">
-<!--     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
         <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sachin-singh-9a3ab024a/" target="_blank">
-<!--     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> -->
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
        <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/sacccchhhhiiinn/" target="_blank">
-<!--     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
        <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
     
-</div>
+</div> 
+-->
 
- <hr/>
+ 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,figma,photoshop" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php" /><br>
@@ -62,16 +63,16 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sachinseengh/sachinseengh/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
-</div>
+</div>-->
 
 
-<hr/>
+<!--
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -87,6 +88,7 @@
 <hr/>
 
 <br/>
+-->
 
 
 
