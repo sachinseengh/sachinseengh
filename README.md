@@ -56,7 +56,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,figma,photoshop" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php" /><br>
 </div>
 
