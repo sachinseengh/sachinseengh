@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sachin+Kumar+Singh;" />
 </h1>
 
-<h3 align="center">"I'm a student with a keen interest in coding, aspiring to become a software developer."</h3>
+<!--<h3 align="center">"I'm a student with a keen interest in coding, aspiring to become a software developer."</h3>-->
 
 
 
