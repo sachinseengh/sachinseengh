@@ -57,7 +57,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,figma,photoshop,wordpress" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php,jquery,bootstrap,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php,jquery,bootstrap,dotnet,react" /><br>
 </div>
 
 <br/>
