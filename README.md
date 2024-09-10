@@ -57,7 +57,11 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,figma,photoshop,wordpress" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php,jquery,bootstrap,dotnet,react" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php,jquery,bootstrap,dotnet,react,tailwind" />
+    <img src="https://github.com/user-attachments/assets/80b2345f-2914-4d6c-bf62-7a77ae49c6f2" height="40"/>
+   
+
+    
 </div>
 
 <br/>
