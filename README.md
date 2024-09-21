@@ -93,6 +93,9 @@
 
 <br/>
 -->
+## 📄 Download My CV
+<a href="https://github.com/user-attachments/files/17084050/SachinKumarSinghResume.pdf" download="your-cv.pdf" class="btn">Download CV</a>
+
 
 
 
