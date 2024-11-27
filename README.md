@@ -93,7 +93,7 @@
 
 <br/>
 -->
-## 📄 Portfolio
+## 🌐 Portfolio
 <a href="https://sachinseengh.github.io/Portfolio/" class="btn">Portfolio</a>
 
 
