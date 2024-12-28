@@ -96,7 +96,7 @@
 ## 🌐 Portfolio
 <a href="https://sachinseengh.github.io/Portfolio/" class="btn">Portfolio</a>
 
-
+### Previews of projects are in their README.md files.
 
 
 <br/>
