@@ -56,10 +56,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma,photoshop,wordpress" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,c,php,jquery,bootstrap,dotnet,spring" />
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,vue" />
     <img src="https://github.com/user-attachments/assets/80b2345f-2914-4d6c-bf62-7a77ae49c6f2" height="40"/>
-    <img src="https://skillicons.dev/icons?i=react,tailwind" />
+    <img alt="Javalin-logo" src="https://github.com/user-attachments/assets/93ad2186-8576-4648-88ac-cae60c014574" height="40" />
+
 
     
 </div>
